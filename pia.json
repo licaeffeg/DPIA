@@ -1,914 +1,914 @@
 {
     "pia": {
-      "status": 2,
-      "is_example": 0,
-      "is_archive": 0,
-      "created_at": "2024-05-10T11:07:46.321Z",
-      "name": "RTT",
-      "category": null,
-      "author_name": "Martinez Carbonell, Pablo; Gilioli, Rossano",
-      "evaluator_name": "Cocca, Simone; Licastro, Federico",
-      "validator_name": "Cocca, Simone",
-      "updated_at": "2024-07-06T16:16:56.368Z",
-      "structure_id": "",
-      "id": 2,
-      "progress": 88.75,
-      "pia": {
-        "status": 0,
+        "status": 2,
         "is_example": 0,
         "is_archive": 0,
-        "created_at": "2024-06-21T15:01:34.573Z"
-      },
-      "dpos_names": "Simone Cocca",
-      "dpo_status": 1,
-      "concerned_people_searched_opinion": false,
-      "concerned_people_searched_content": "In relazione alla nostra imminente sperimentazione sulla sindrome di Rett, riconosciamo l'importanza del coinvolgimento e della protezione dei soggetti partecipanti. Sebbene il parere degli interessati non sia stato richiesto preliminarmente, essenzialmente perché la sperimentazione deve ancora iniziare, abbiamo istituito solide misure per assicurare che i loro diritti siano pienamente rispettati e protetti durante tutto il corso dello studio.\n\nMisure Implementate:\nDiritto di Terminare il Trattamento dei Dati:\n\nAi partecipanti è garantita la possibilità di ritirare il proprio consenso in qualsiasi momento. Questo diritto è fondamentale per assicurare che i soggetti possano sentirsi liberi di interrompere la loro partecipazione senza alcuna conseguenza negativa.\nIn caso di ritiro del consenso, i partecipanti hanno la possibilità di richiedere la cessazione del trattamento dei loro dati e la distruzione di quelli già trattati. Questo processo è gestito con la massima riservatezza e sicurezza, seguendo procedure di eliminazione dei dati che impediscono il recupero o l'uso futuro delle informazioni cancellate.\nDiritto alla Portabilità e Accesso ai Dati:\n\nConformemente al GDPR, offriamo anche ai partecipanti la possibilità di richiedere la portabilità dei loro dati. Questo implica la possibilità di ottenere i dati in un formato strutturato, comunemente usato e leggibile da macchina, e di trasferirli ad altro titolare del trattamento senza impedimenti.\nI partecipanti possono richiedere accesso ai dati che li riguardano. Questo assicura trasparenza e permette ai soggetti di verificare la correttezza dei dati trattati e di comprendere le modalità del loro utilizzo nel contesto della ricerca.\nComunicazione Chiara e Trasparente:\nPer garantire che queste opzioni siano chiaramente comprese da tutti i partecipanti, includiamo queste informazioni in un documento di consenso informato dettagliato. Questo documento spiega in modo chiaro e accessibile tutti i diritti dei partecipanti, compresi i dettagli su come possono esercitare tali diritti. Inoltre, un team dedicato è disponibile per rispondere a qualsiasi domanda e assistere i partecipanti nel processo di gestione dei loro dati.\n\nMonitoraggio Continuo:\nInfine, continuiamo a monitorare e valutare queste procedure per assicurarci che siano efficaci e che rispettino pienamente i diritti dei partecipanti. Questo include la revisione regolare delle nostre pratiche di trattamento dei dati e l'aggiornamento delle nostre politiche in risposta a feedback, nuove normative o cambiamenti tecnologici.",
-      "dpo_opinion": "Dopo un'attenta valutazione delle misure implementate per la gestione dei dati nel nostro progetto di ricerca sulla sindrome di Rett, confermo che il trattamento dei dati può essere implementato. Le seguenti motivazioni supportano questa decisione:\n\nNel contesto di un progetto di ricerca che coinvolge dati sensibili, come nel caso della sindrome di Rett, il Data Protection Officer (DPO) svolge un ruolo cruciale nel garantire che tutte le operazioni di trattamento dei dati siano conformi alle normative sulla protezione dei dati, come il GDPR. Ecco come potrebbero essere formulate le motivazioni del DPO per l'approvazione del trattamento dei dati nel progetto:\n\nMotivazioni del DPO per l'Approvazione del Trattamento dei Dati nel Progetto di Ricerca sulla Sindrome di Rett\n\nDopo un'attenta valutazione delle misure implementate per la gestione dei dati nel nostro progetto di ricerca sulla sindrome di Rett, confermo che il trattamento dei dati può essere implementato. Le seguenti motivazioni supportano questa decisione:\n\nConformità alle Normative:\nTutte le norme pertinenti relative al trattamento dei dati sono state scrupolosamente vagliate e rispettate. Ciò include la conformità al Regolamento Generale sulla Protezione dei Dati (GDPR) e alle normative nazionali in materia di protezione dei dati. Particolare attenzione è stata dedicata ai principi di minimizzazione dei dati, limitazione della finalità e integrità e riservatezza dei dati.\n\nMisurazione del Rischio e DPIA:\nÈ stata condotta un'approfondita Valutazione di Impatto sulla Protezione dei Dati (DPIA), che ha esaminato i rischi associati al trattamento dei dati nel progetto. La DPIA ha confermato che i rischi sono stati identificati e adeguatamente mitigati attraverso misure tecniche e organizzative appropriate.\n\nSicurezza della Piattaforma di Ricerca:\nLa piattaforma di ricerca, sia nella sua componente fisica che logica, è stata progettata per garantire una solida protezione dei dati. Questo include:\n\nProtezione Fisica: Controlli di accesso fisico restrittivi sono in atto per prevenire accessi non autorizzati agli ambienti di ricerca.\nSicurezza Informatica: Avanzate misure di sicurezza informatica, inclusa la cifratura dei dati, l'autenticazione forte e il monitoraggio continuo, sono state implementate per proteggere i dati da accessi, modifiche o distruzioni non autorizzate.\nTrasparenza e Responsabilità:\nSono state stabilite procedure chiare per garantire la trasparenza nel trattamento dei dati. Questo include politiche dettagliate sulla privacy, procedure di consenso informato chiare per i partecipanti e canali aperti per l'esercizio dei diritti dei soggetti dei dati.\n\nFormazione del Personale e Sensibilizzazione:\nIl personale coinvolto nel progetto ha ricevuto formazione specifica sulla protezione dei dati e sulla sicurezza, assicurando che tutti comprendano le loro responsabilità e le migliori pratiche relative alla gestione dei dati sensibili.\n\nMonitoraggio e Revisione Continua:\nÈ stato stabilito un regime di monitoraggio e revisione continua per assicurare che le pratiche di trattamento dei dati rimangano conformi alle normative vigenti e alle migliori pratiche del settore. Ciò include revisioni periodiche del DPIA e aggiornamenti delle misure di sicurezza in risposta a nuove minacce o vulnerabilità emergenti.\n\nIn conclusione, le misure adottate per garantire la protezione dei dati nel progetto di ricerca sulla sindrome di Rett sono robuste e conformi agli standard normativi richiesti. Pertanto, supporto la decisione che il trattamento dei dati può procedere, garantendo la sicurezza e la riservatezza dei dati dei partecipanti."
+        "created_at": "2024-07-19T12:37:20.144Z",
+        "name": "(COPY) (IMPORT) RTT",
+        "category": null,
+        "author_name": "Martinez Carbonell, Pablo; Gilioli, Rossano",
+        "evaluator_name": "Cocca, Simone; Licastro, Federico",
+        "validator_name": "Cocca, Simone",
+        "dpo_status": 1,
+        "dpo_opinion": "Dopo un'attenta valutazione delle misure implementate per la gestione dei dati nel nostro progetto di ricerca sulla sindrome di Rett, confermo che il trattamento dei dati può essere implementato. Le seguenti motivazioni supportano questa decisione: \n1.\tConformità alle Normative: Tutte le norme pertinenti relative al trattamento dei dati sono state scrupolosamente vagliate e rispettate. Ciò include la conformità al Regolamento Generale sulla Protezione dei Dati (GDPR) e alle normative nazionali in materia di protezione dei dati. Particolare attenzione è stata dedicata ai principi di minimizzazione dei dati, limitazione della finalità e integrità e riservatezza dei dati. \n2.\tMisurazione del Rischio e DPIA: È stata condotta un'approfondita Valutazione di Impatto sulla Protezione dei Dati (DPIA), che ha esaminato i rischi associati al trattamento dei dati nel progetto. La DPIA ha confermato che i rischi sono stati identificati e adeguatamente mitigati attraverso misure tecniche e organizzative appropriate. \n3.\tSicurezza della Piattaforma di Ricerca: La piattaforma di ricerca, è stata certificata per garantire una solida protezione dei dati. Questo include: \na.\tProtezione Fisica: Controlli di accesso fisico restrittivi sono in atto per prevenire accessi non autorizzati agli ambienti di ricerca. \nb.\tSicurezza Informatica: Misure di sicurezza informatica, inclusa la cifratura dei dati, l'autenticazione forte e il monitoraggio continuo, sono state implementate per proteggere i dati da accessi, modifiche o distruzioni non autorizzate. \n4.\tTrasparenza e Responsabilità: Sono state stabilite procedure chiare per garantire la trasparenza nel trattamento dei dati. Questo include politiche sulla privacy, procedure di consenso informato chiare per i partecipanti e canali aperti per l'esercizio dei diritti dei soggetti dei dati. \n5.\tFormazione del Personale e Sensibilizzazione: Il personale coinvolto nel progetto riceverà formazione specifica sulla protezione dei dati e sulla sicurezza, assicurando che tutti comprendano le loro responsabilità e le migliori pratiche relative alla gestione dei dati sensibili. \n6.\tMonitoraggio e Revisione Continua: È stato stabilito un regime di monitoraggio e revisione continua per assicurare che le pratiche di trattamento dei dati rimangano conformi alle normative vigenti e alle migliori pratiche del settore. Ciò include aggiornamenti delle misure di sicurezza in risposta a nuove minacce o vulnerabilità emergenti. \nIn conclusione, le misure adottate per garantire la protezione dei dati nel progetto di ricerca sulla sindrome di Rett sono robuste e conformi agli standard normativi richiesti. Pertanto, supporto la decisione che il trattamento dei dati può procedere, garantendo la sicurezza e la riservatezza dei dati dei partecipanti.",
+        "concerned_people_opinion": null,
+        "concerned_people_status": null,
+        "concerned_people_searched_opinion": false,
+        "concerned_people_searched_content": "In relazione alla nostra imminente sperimentazione sulla sindrome di Rett, riconosciamo l'importanza del coinvolgimento e della protezione dei soggetti partecipanti. Sebbene il parere degli interessati non sia stato richiesto preliminarmente, essenzialmente perché la sperimentazione deve ancora iniziare, abbiamo istituito solide misure per assicurare che i loro diritti siano pienamente rispettati e protetti durante tutto il corso dello studio. Misure Implementate: \n1.\tDiritto di Terminare il Trattamento dei dati: Ai partecipanti è garantita la possibilità di ritirare il proprio consenso in qualsiasi momento. Questo diritto è fondamentale per assicurare che i soggetti possano sentirsi liberi di interrompere la loro partecipazione senza alcuna conseguenza negativa. In caso di ritiro del consenso, i partecipanti hanno la possibilità di richiedere la cessazione del trattamento dei loro dati e la distruzione di quelli già trattati. Questo processo è gestito con la massima riservatezza e sicurezza, Jseguendo procedure di eliminazione dei dati che impediscono il recupero o l'uso futuro delle informazioni cancellate. \n2.\tDiritto alla Portabilità e Accesso ai Dati: Conformemente al GDPR, offriamo anche ai partecipanti la possibilità di richiedere la portabilità dei loro dati. Questo implica la possibilità di ottenere i dati in un formato strutturato, comunemente usato e leggibile da macchina, e di trasferirli ad altro titolare del trattamento senza impedimenti. I partecipanti possono richiedere accesso ai dati che li riguardano. Questo assicura trasparenza e permette ai soggetti di verificare la correttezza dei dati trattati e di comprendere le modalità del loro utilizzo nel contesto della ricerca. \n3.\tComunicazione Chiara e Trasparente: Per garantire che queste opzioni siano chiaramente comprese da tutti i partecipanti, includiamo queste informazioni in un documento di consenso informato dettagliato. Questo documento spiega in modo chiaro e accessibile tutti i diritti dei partecipanti, compresi i dettagli su come possono esercitare tali diritti. Inoltre, un team dedicato è disponibile per rispondere a qualsiasi domanda e assistere i partecipanti nel processo di gestione dei loro dati. \n4.\tMonitoraggio Continuo: Infine, continuiamo a monitorare e valutare queste procedure per assicurarci che siano efficaci e che rispettino pienamente i diritti dei partecipanti. Questo include la revisione regolare delle nostre pratiche di trattamento dei dati e l'aggiornamento delle nostre politiche in risposta a feedback, nuove normative o cambiamenti tecnologici.",
+        "dpos_names": "Simone Cocca",
+        "people_names": null,
+        "updated_at": "2024-07-19T13:06:57.063Z",
+        "structure_id": "",
+        "id": 5,
+        "progress": 88.75
     },
     "answers": [
-      {
-        "pia_id": 2,
-        "reference_to": 111,
-        "data": {
-          "text": "<div>L&rsquo;istituto di Scienze e Tecnologie della Cognizione (ISTC) del CNR vuole condurre una ricerca in collaborazione con l&rsquo;Associazione Italiana Sindrome di Rett. La ricerca condotta dalle due organizzazioni prevede di sperimentare alcuni giochi, sviluppati in forma prototipale dall'ISTC-CNR, a soggetti, anagraficamente identificati, con dichiarata Sindrome di Rett (RTT).<br />\n<div>La sperimentazione ha il fine di valutare se i giochi interattivi possano essere utili anche per stimolare le competenze senso-motorie e sociali nei soggetti RTT, di et&agrave; compresa tra 3 e 30 anni.</div>\n<br /><br /></div>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 111,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">L&rsquo;istituto di Scienze e Tecnologie della Cognizione (ISTC) del CNR vuole condurre una ricerca in collaborazione con l&rsquo;Associazione Italiana Sindrome di Rett. La ricerca condotta dalle due organizzazioni prevede di sperimentare alcuni giochi, sviluppati in forma prototipale dall'ISTC-CNR, a soggetti, anagraficamente identificati, con dichiarata Sindrome di Rett (RTT).</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">La sperimentazione ha il fine di valutare se i giochi interattivi possano essere utili anche per stimolare le competenze senso-motorie e sociali nei soggetti RTT, di et&agrave; compresa tra 3 e 30 anni.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:43:46.345Z",
+            "id": 115
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "updated_at": "2024-06-02T16:57:04.389Z",
-        "id": 45
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 112,
-        "data": {
-          "text": "I titolari del trattamento sono due ricercatori del CNR e un dipendente dell'Associazione, i quali saranno i responsabili scientifici del progetto. Essi potranno trovare ausilio nel DPO designato per l'intera durata del progetto di ricerca.&nbsp;",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 112,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">I titolari del trattamento sono due ricercatori del CNR e un dipendente dell'Associazione, i quali saranno i responsabili scientifici del progetto. Essi potranno trovare ausilio nel DPO designato per l'intera durata del progetto di ricerca.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:43:36.739Z",
+            "id": 116
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "updated_at": "2024-06-05T15:32:19.780Z",
-        "id": 46
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 113,
-        "data": {
-          "text": "<ul>\n<li>GDPR: art 5 e art 32</li>\n<li>Codice Privacy D.lgs. 101/2018</li>\n<li>Linee guida del Garante per la protezione dei dati personali</li>\n<li>ISO/IEC 27001: Sistemi di gestione della sicurezza delle informazioni</li>\n<li>ISO/IEC 27701 PIMS: implementazione e miglioramento continuo di un sistema di gestione delle informazioni sulla privacy</li>\n<li>HL7: standard per lo scambio, l'integrazione, la condivisione e il recupero elettronico delle informazioni sanitarie, con particolare attenzione all'interoperabilit&agrave;</li>\n</ul>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 113,
+            "data": {
+                "text": "<ul>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt;\"><span lang=\"EN-US\">GDPR: art 5 e art 32</span></li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt;\"><span lang=\"EN-US\">Codice Privacy D.lgs. 101/2018</span></li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt;\">Linee guida del Garante per la protezione dei dati personali</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt;\">ISO/IEC 27001: Sistemi di gestione della sicurezza delle informazioni</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt;\">ISO/IEC 27701 PIMS: implementazione e miglioramento continuo di un sistema di gestione delle informazioni sulla privacy</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt;\">HL7: standard per lo scambio, l'integrazione, la condivisione e il recupero elettronico delle informazioni sanitarie, con particolare attenzione all'interoperabilit&agrave;</li>\n</ul>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:43:18.357Z",
+            "id": 117
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "updated_at": "2024-06-02T17:13:08.233Z",
-        "id": 47
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 121,
-        "data": {
-          "text": "Dati anagrafici (pseudonimizzati), dati biometrici, genetici e sanitari. Questi dati verranno archiviati durante l'arco della durata del progetto di sperimentazione per 3 anni, a cui saranno sommati 5 ulteriori anni per finalit&agrave; di ricerca.&nbsp;<br />A questi dati potranno accedervi, per i primi 3 anni, i titolari del trattamento e il DPO, nonch&egrave; gli interessati, attraverso ove previsto delega tutoriale. Alla fine del progetto si ritiene utile a fini di ricerca mantenere l'accesso ai dati anche da parte di terzi soggetti, solo ed esclusivamente a fini di ricerca.&nbsp;",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 121,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">Dati anagrafici (pseudonimizzati), dati biometrici, genetici e sanitari. Questi dati verranno archiviati durante l'arco della durata del progetto di sperimentazione per 3 anni, a cui saranno sommati 5 ulteriori anni per finalit&agrave; di ricerca.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">A questi dati potranno accedervi, per i primi 3 anni, i titolari del trattamento e il DPO, nonch&egrave; gli interessati, attraverso ove previsto delega tutoriale. Alla fine del progetto si ritiene utile a fini di ricerca mantenere l'accesso ai dati anche da parte di terzi soggetti, solo ed esclusivamente a fini di ricerca.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:44:25.277Z",
+            "id": 118
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "updated_at": "2024-06-02T17:52:46.069Z",
-        "id": 48
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 123,
-        "data": {
-          "text": "Piattaforma di elaborazione e archiviazione dati del CNR:<br /><br />\n<ul>\n<li>SAN</li>\n<li>DB</li>\n<li>VM linux Servers</li>\n<li>Data Warehouse</li>\n<li>Data Lake</li>\n<li>ML/AI software</li>\n<li>VPN</li>\n<li>API servers</li>\n<li>BI software</li>\n</ul>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 123,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Piattaforma di elaborazione e archiviazione dati del CNR:</p>\n<ul>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\"><span lang=\"EN-US\">SAN</span></li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">DB</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">VM linux Servers</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Data Warehouse</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Data Lake</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">ML/AI software</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">VPN</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">API servers</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">BI software</li>\n</ul>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">&nbsp;</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:46:02.219Z",
+            "id": 119
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "updated_at": "2024-06-19T19:17:17.166Z",
-        "id": 49
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 122,
-        "data": {
-          "text": "Verranno raccolti dati attraverso tre sorgenti: dati strutturati, semi-strutturati, non strutturati. Viene previsto un sistema di automazione per archiviare i dati in un sistema Data Lake ospitato on premise. Saranno elaborati anche attraverso appliace di machine learning e analytics per creare dei modelli di IA utili a creare applicazioni interattive funzionali alla ricerca e agli utenti. Tutti i dati personali anagrafici saranno opportunamente anonimizzati attraverso delle label ID numeriche. I video dei partecipanti alla sperimentazione saranno elaborati per impedire il riconoscimento facciale e il riconoscimento vocale dei partecipanti. I dati verranno altres&igrave; elaborati in una pipeline, al fine di creare degli standard utili alla successiva implementazione di linked open data accessibili in futuro ad altri istituti di ricerca. La retention viene impostata ad otto anni: tre anni relativi al periodo di ricerca e cinque anni dedicati alla ricerca. Al termine del periodo totale di retention l'accesso verr&agrave; disabilitato e le appliance di archiviazione verranno eliminate.",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 122,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">Verranno raccolti dati attraverso tre sorgenti: dati strutturati, semi-strutturati, non strutturati. Viene previsto un sistema di automazione per archiviare i dati in un sistema Data Lake ospitato on premise. Saranno elaborati anche attraverso appliace di machine learning e analytics per creare dei modelli di IA utili a creare applicazioni interattive funzionali alla ricerca e agli utenti. Tutti i dati personali anagrafici saranno opportunamente anonimizzati attraverso delle label ID numeriche. I video dei partecipanti alla sperimentazione saranno elaborati per impedire il riconoscimento facciale e il riconoscimento vocale dei partecipanti. I dati verranno altres&igrave; elaborati in una pipeline, al fine di creare degli standard utili alla successiva implementazione di linked open data accessibili in futuro ad altri istituti di ricerca. La retention viene impostata ad otto anni: tre anni relativi al periodo di ricerca e cinque anni dedicati alla ricerca. Al termine del periodo totale di retention l'accesso verr&agrave; disabilitato e le appliance di archiviazione verranno eliminate.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:45:12.266Z",
+            "id": 120
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "updated_at": "2024-06-05T16:47:23.750Z",
-        "id": 50
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 325,
-        "data": {
-          "text": "Il trattamento dei dati personali all'interno del progetto di ricerca presenta una significativa gravit&agrave; del rischio. Questo rischio &egrave; motivato dalla natura altamente sensibile dei dati coinvolti, inclusi informazioni personali e biometriche di individui con condizioni neuro-sviluppative complesse. Vi potrebbe essere una potenziale esposizione a violazioni della privacy e alla possibile compromissione della sicurezza dei dati dei partecipanti. La divulgazione non autorizzata di queste informazioni potrebbe non solo compromettere la riservatezza dei soggetti coinvolti, ma anche causare danni significativi alla loro reputazione e integrit&agrave; personale.&nbsp;",
-          "gauge": 3,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 325,
+            "data": {
+                "text": "Il trattamento dei dati personali all'interno del progetto di ricerca presenta una significativa gravit&agrave; del rischio. Questo rischio &egrave; motivato dalla natura altamente sensibile dei dati coinvolti, inclusi informazioni personali e biometriche di individui con condizioni neuro-sviluppative complesse. Vi potrebbe essere una potenziale esposizione a violazioni della privacy e alla possibile compromissione della sicurezza dei dati dei partecipanti. La divulgazione non autorizzata di queste informazioni potrebbe non solo compromettere la riservatezza dei soggetti coinvolti, ma anche causare danni significativi alla loro reputazione e integrit&agrave; personale.&nbsp;",
+                "gauge": 3,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-06-26T20:26:43.909Z",
+            "id": 121
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "id": 51,
-        "updated_at": "2024-06-26T20:26:43.909Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 211,
-        "data": {
-          "text": "<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In linea con l'articolo 5 del GDPR, gli scopi del trattamento dei dati personali nel progetto sono </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">specifici</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, poich&eacute; riguardano la sperimentazione di giochi interattivi per valutare le competenze senso-motorie e sociali nei soggetti con Sindrome di Rett. Sono </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">espliciti</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, poich&eacute; vengono chiaramente comunicati ai partecipanti (e ai loro tutori legali) tramite moduli di consenso informato. Sono </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">legittimi</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, poich&eacute; il progetto &egrave; finalizzato alla ricerca scientifica e ha il potenziale di contribuire significativamente alla comprensione e al trattamento della Sindrome di Rett.</span></p>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 211,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">In linea con l'articolo 5 del GDPR, gli scopi del trattamento dei dati personali nel progetto sono specifici, poich&eacute; riguardano la sperimentazione di giochi interattivi per valutare le competenze senso-motorie e sociali nei soggetti con Sindrome di Rett. Sono espliciti, poich&eacute; vengono chiaramente comunicati ai partecipanti (e ai loro tutori legali) tramite moduli di consenso informato. Sono legittimi, poich&eacute; il progetto &egrave; finalizzato alla ricerca scientifica e ha il potenziale di contribuire significativamente alla comprensione e al trattamento della Sindrome di Rett.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "id": 122,
+            "updated_at": "2024-07-19T12:46:26.270Z"
         },
-        "created_at": "2024-06-21T15:01:34.620Z",
-        "id": 52
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 212,
-        "data": {
-          "text": "<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Consenso dell'interessato: Il trattamento &egrave; lecito in quanto gli interessati (o i loro tutori legali ) dovranno dare il consenso esplicito al trattamento dei propri dati personali attraverso un modulo di consenso che spiegher&agrave; chiaramente gli scopi del trattamento, i tipi di dati personali che saranno raccolti, come saranno utilizzati e con chi saranno condivisi</span></p>\n<span><span><br /></span></span>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Esecuzione di un compito di interesse pubblico: Il progetto ha un obiettivo di ricerca scientifica finalizzato a migliorare la comprensione e il trattamento della Sindrome di Rett, rientrando nell'esecuzione di un compito di interesse pubblico, superando gli interessi individuali dei partecipanti.</span></p>\n<span><span><br /></span></span>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Interessi legittimi del titolare del trattamento: Il trattamento &egrave; necessario per perseguire gli interessi legittimi dell'ISTC-CNR e dell'Associazione Italiana Sindrome di Rett, per migliorare le cure e le terapie per i pazienti affetti dalla Sindrome di Rett.</span></p>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 212,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">Consenso dell'interessato: Il trattamento &egrave; lecito in quanto gli interessati (o i loro tutori legali ) dovranno dare il consenso esplicito al trattamento dei propri dati personali attraverso un modulo di consenso che spiegher&agrave; chiaramente gli scopi del trattamento, i tipi di dati personali che saranno raccolti, come saranno utilizzati e con chi saranno condivisi.<br /><br /></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">Esecuzione di un compito di interesse pubblico: Il progetto ha un obiettivo di ricerca scientifica finalizzato a migliorare la comprensione e il trattamento della Sindrome di Rett, rientrando nell'esecuzione di un compito di interesse pubblico, superando gli interessi individuali dei partecipanti.<br /><br /></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">Interessi legittimi del titolare del trattamento: Il trattamento &egrave; necessario per perseguire gli interessi legittimi dell'ISTC-CNR e dell'Associazione Italiana Sindrome di Rett, per migliorare le cure e le terapie per i pazienti affetti dalla Sindrome di Rett.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "id": 123,
+            "updated_at": "2024-07-19T12:48:29.539Z"
         },
-        "created_at": "2024-06-26T19:15:14.899Z",
-        "id": 53
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 213,
-        "data": {
-          "text": "<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Sono </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">adeguati</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> in quanto saranno richiesti:<br /></span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dati identificativi necessari per identificare i partecipanti e per gestire la partecipazione alle sessioni di sperimentazione.<br /></span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dati diagnostici specifici sulla Sindrome di Rett per comprendere il contesto clinico dei partecipanti.<br /></span><span style=\"font-size: 12pt; font-family: Aptos; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dati comportamentali e sociali per valutare l'efficacia dei giochi nella stimolazione delle competenze target.<br /></span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Sono </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">pertinenti</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> in quanto saranno limitati ai soli aspetti necessari per l'analisi delle competenze senso-motorie e sociali dei partecipanti con RTT.<br /></span><span style=\"font-size: 12pt; font-family: Aptos; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sono </span><span style=\"font-size: 12pt; font-family: Aptos; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">limitati</span><span style=\"font-size: 12pt; font-family: Aptos; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> in quanto il periodo massimo per la loro conservazione sar&agrave; 3 anni per i dati identificativi, di 5 anni per i dati diagnostici e di breve periodo per i dati comportamentali oltre la fine del progetto, per analisi retrospettive o per consentire la replicazione degli studi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-985131a8-7fff-ff8c-6a97-7d8197e0c22e\"></span><br /></span></p>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 213,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Sono adeguati in quanto saranno richiesti:</p>\n<ul>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Dati identificativi necessari per identificare i partecipanti e per gestire la partecipazione alle sessioni di sperimentazione.</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Dati diagnostici specifici sulla Sindrome di Rett per comprendere il contesto clinico dei partecipanti.</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Dati comportamentali e sociali per valutare l'efficacia dei giochi nella stimolazione delle competenze target.</li>\n</ul>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Sono pertinenti in quanto saranno limitati ai soli aspetti necessari per l'analisi delle competenze senso-motorie e sociali dei partecipanti con RTT.<br /><br /></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Sono limitati in quanto il periodo massimo per la loro conservazione sar&agrave; 3 anni per i dati identificativi, di 5 anni per i dati diagnostici e di breve periodo per i dati comportamentali oltre la fine del progetto, per analisi retrospettive o per consentire la replicazione degli studi.</p>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-985131a8-7fff-ff8c-6a97-7d8197e0c22e\"></span><br /></span></p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "updated_at": "2024-07-19T12:48:18.408Z",
+            "id": 124
         },
-        "created_at": "2024-06-26T19:17:08.242Z",
-        "id": 54,
-        "updated_at": "2024-06-26T19:18:46.479Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 214,
-        "data": {
-          "text": "<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">I dati personali saranno </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">esatti</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> grazie a una procedura di raccolta strutturata e possibilit&agrave; di fornire informazioni aggiornate, specialmente per quanto riguarda i dati diagnostici.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">I dati personali saranno </span><span style=\"font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">aggiornati</span><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> durante il progetto, ma non oltre la sua chiusura. Questo include eventuali modifiche o integrazioni richieste per garantire l'accuratezza dei risultati, tuttavia, i dati personali al termine del progetto saranno considerati finali e non saranno pi&ugrave; soggetti ad aggiornamenti.&nbsp;</span></p>\n<div><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></div>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 214,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">I dati personali saranno esatti grazie a una procedura di raccolta strutturata e possibilit&agrave; di fornire informazioni aggiornate, specialmente per quanto riguarda i dati diagnostici.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-family: Aptos, sans-serif; font-size: 12pt;\">I dati personali saranno aggiornati durante il progetto, ma non oltre la sua chiusura. Questo include eventuali modifiche o integrazioni richieste per garantire l'accuratezza dei risultati, tuttavia, i dati personali al termine del progetto saranno considerati finali e non saranno pi&ugrave; soggetti ad aggiornamenti.</span><span style=\"font-family: Aptos; font-size: 12pt; white-space: pre-wrap;\">&nbsp;</span></p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.151Z",
+            "id": 125,
+            "updated_at": "2024-07-19T12:48:14.869Z"
         },
-        "created_at": "2024-06-26T19:18:58.875Z",
-        "id": 55
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 215,
-        "data": {
-          "text": "<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dati identificativi: I dati identificativi saranno conservati per un periodo di </span><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">3 anni</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> dalla conclusione del progetto. Questo periodo potrebbe essere esteso nel caso in cui si decida di condurre ulteriori ricerche con gli stessi soggetti a medio termine.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dati diagnostici specifici sulla Sindrome di Rett: I dati diagnostici specifici sulla Sindrome di Rett saranno conservati per almeno </span><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">5 anni</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> dalla conclusione del progetto. Questo &egrave; necessario per supportare eventuali futuri studi o ricerche sulla causa della malattia e sulle sue conseguenze.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dati comportamentali e sociali: I dati comportamentali e sociali, risultato della ricerca, saranno conservati per </span><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">il periodo necessario all'analisi e alla valutazione scientifica</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> dei risultati del progetto. Una volta completata questa fase, i dati saranno eliminati o resi anonimi, a meno che non ci siano ragioni legittime e pertinenti per conservarli ulteriormente.</span></p>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 215,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Dati identificativi: I dati identificativi saranno conservati per un periodo di 3 anni dalla conclusione del progetto. Questo periodo potrebbe essere esteso nel caso in cui si decida di condurre ulteriori ricerche con gli stessi soggetti a medio termine.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Dati diagnostici specifici sulla Sindrome di Rett: I dati diagnostici specifici sulla Sindrome di Rett saranno conservati per almeno 5 anni dalla conclusione del progetto. Questo &egrave; necessario per supportare eventuali futuri studi o ricerche sulla causa della malattia e sulle sue conseguenze.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Dati comportamentali e sociali: I dati comportamentali e sociali, risultato della ricerca, saranno conservati per il periodo necessario all'analisi e alla valutazione scientifica dei risultati del progetto. Una volta completata questa fase, i dati saranno eliminati o resi anonimi, a meno che non ci siano ragioni legittime e pertinenti per conservarli ulteriormente.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "id": 126,
+            "updated_at": "2024-07-19T12:48:58.623Z"
         },
-        "created_at": "2024-06-26T19:19:40.297Z",
-        "id": 56
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 221,
-        "data": {
-          "text": "<div dir=\"ltr\" style=\"line-height: 1.39; margin-top: 0pt; margin-bottom: 8pt; text-align: left;\">\n<p dir=\"ltr\" style=\"line-height: 1.3900000000000001; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Gli interessati (e i loro tutori legali) saranno informati attraverso il modulo di consenso informato, portale ISTC-CNR dedicato al progetto in cui saranno specificati:</span></p>\n<ol>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Identit&agrave;</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> e </span><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">contatti</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> dei titolari del trattamento;</span></li>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\">Finalit&agrave;<span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> del trattamento e </span><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">basi giuridiche</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">;</span></li>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\">Tipologia dei dati raccolti<span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">;</span></li>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\">Periodo di <span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">conservazione</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> dei dati;</span></li>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\">Diritti<span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> degli interessati (accesso, rettifica, cancellazione, limitazioni, portabilit&agrave; e opposizione);</span></li>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\">Destinatari<span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> dei dati personali;</span></li>\n<li dir=\"ltr\" style=\"line-height: 1.39; text-align: justify;\" role=\"presentation\">Misure tecnico-organizzative di <span style=\"text-align: left; font-size: 12pt; font-family: Aptos; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">sicurezza</span><span style=\"text-align: left; font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> adottate.</span></li>\n</ol>\n</div>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 221,
+            "data": {
+                "text": "<div dir=\"ltr\" style=\"line-height: 1.39; margin-top: 0pt; margin-bottom: 8pt; text-align: left;\">\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Gli interessati (e i loro tutori legali) saranno informati attraverso il modulo di consenso informato, portale ISTC-CNR dedicato al progetto in cui saranno specificati:</p>\n<ul>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Identit&agrave; e contatti dei titolari del trattamento;</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Finalit&agrave; del trattamento e basi giuridiche;</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Tipologia dei dati raccolti;</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Periodo di conservazione dei dati;</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Diritti degli interessati (accesso, rettifica, cancellazione, limitazioni, portabilit&agrave; e opposizione);</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Destinatari dei dati personali;</li>\n<li class=\"MsoNormal\" style=\"line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Misure tecnico-organizzative di sicurezza adottate.</li>\n</ul>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">&nbsp;</p>\n</div>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-19T12:49:43.771Z",
+            "id": 127
         },
-        "created_at": "2024-06-26T19:22:27.850Z",
-        "id": 57,
-        "updated_at": "2024-06-26T19:24:00.326Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 222,
-        "data": {
-          "text": "<span id=\"docs-internal-guid-ee6b92f8-7fff-b223-91de-4b838c19dc00\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Modulo di consenso informato</span></span>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 222,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Modulo di consenso informato</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "id": 128,
+            "updated_at": "2024-07-19T12:50:04.084Z"
         },
-        "created_at": "2024-06-26T19:24:42.577Z",
-        "id": 58
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 223,
-        "data": {
-          "text": "Accesso tramite credenziali alla sezione del portale ISTC-CNR dedicata al progetto",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 223,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Accesso tramite credenziali alla sezione del portale ISTC-CNR dedicata al progetto</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "id": 129,
+            "updated_at": "2024-07-19T12:50:23.992Z"
         },
-        "created_at": "2024-06-26T19:26:21.749Z",
-        "id": 59
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 224,
-        "data": {
-          "text": "<span id=\"docs-internal-guid-9da868d4-7fff-8bdb-86e5-a75a75bf6927\"><span style=\"font-size: 12pt; font-family: Aptos; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Gli interessati potranno presentare la richiesta di rettifica e cancellazione tramite un modulo disponibile nella sezione del portale dedicata al progetto e accedibile solo attraverso credenziali </span></span>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 224,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: left;\">Gli interessati potranno presentare la richiesta di rettifica e cancellazione tramite un modulo disponibile nella sezione del portale dedicata al progetto e accedibile solo attraverso credenziali</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-19T12:50:44.700Z",
+            "id": 130
         },
-        "created_at": "2024-06-26T19:27:10.562Z",
-        "id": 60,
-        "updated_at": "2024-06-26T19:30:44.210Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 225,
-        "data": {
-          "text": "<span style=\"font-family: Aptos; font-size: 16px; white-space: pre-wrap;\">Gli interessati potranno presentare la richiesta tramite modulo disponibile nella sezione del portale ad accesso controllato dedicata al progetto.</span>",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 225,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Gli interessati potranno presentare la richiesta tramite modulo disponibile nella sezione del portale ad accesso controllato dedicata al progetto.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-19T12:51:08.202Z",
+            "id": 131
         },
-        "created_at": "2024-06-26T19:30:30.908Z",
-        "id": 61,
-        "updated_at": "2024-06-26T19:31:11.189Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 226,
-        "data": {
-          "text": "Essendo prevista una piattaforma di raccolta, archiviazione e elaborazione dati interna al CNR a cui possono accedere per la durata del progetto anche i componenti dell'AISR, non si stipula alcun contratto con enti e/o soggetti giuridici terzi",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 226,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Essendo prevista una piattaforma di raccolta, archiviazione e elaborazione dati interna del CNR<span style=\"font-size: 12pt;\"> di licenza certificata cui possono accedere per la durata del progetto anche i componenti dell'AISR, non si stipula alcun contratto con enti e/o soggetti giuridici terzi</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">&nbsp;</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "id": 132,
+            "updated_at": "2024-07-19T12:53:27.490Z"
         },
-        "created_at": "2024-06-26T19:34:32.443Z",
-        "id": 62
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 227,
-        "data": {
-          "text": "I dati non verranno n&egrave; trattati n&egrave; trasferiti al di fuori dell'UE durante lo svolgimento del progetto. Successivamente potranno essere utilizzati per motivi di ricerca anche a livello internazionale, ma saranno protetti da una completa anonimizzazione e saranno accessibili solo i dati diagnostici, sanitari e biometrici utili ad approfondire le tematiche del dominio di ricerca.",
-          "gauge": null,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 227,
+            "data": {
+                "text": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">I dati non verranno n&egrave; trattati n&egrave; trasferiti al di fuori dell'UE durante lo svolgimento del progetto. Successivamente potranno essere utilizzati per motivi di ricerca anche a livello internazionale, ma saranno protetti da una completa anonimizzazione e saranno accessibili solo i dati diagnostici, sanitari e biometrici utili ad approfondire le tematiche del dominio di ricerca.</p>",
+                "gauge": null,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-19T12:53:49.661Z",
+            "id": 133
         },
-        "created_at": "2024-06-26T19:36:09.116Z",
-        "id": 63,
-        "updated_at": "2024-06-26T19:39:03.078Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 321,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "discriminazione",
-            "violazione della privacy",
-            "danni alla reputazione"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 321,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "discriminazione",
+                    "violazione della privacy",
+                    "danni alla reputazione"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T19:54:38.587Z",
+            "id": 134
         },
-        "created_at": "2024-06-26T19:50:37.345Z",
-        "id": 64,
-        "updated_at": "2024-06-26T19:54:38.587Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 322,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "accesso non autorizzato ai sistemi",
-            "compromissione dei servizi della piattaforma dati",
-            "malware",
-            "ransomware",
-            "invio dati a personale non autorizzato al trattamento",
-            "compromissione sistemi sicurezza",
-            "furto di dispositivi",
-            "intrusione fisica nel datacenter"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 322,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "accesso non autorizzato ai sistemi",
+                    "compromissione dei servizi della piattaforma dati",
+                    "malware",
+                    "ransomware",
+                    "invio dati a personale non autorizzato al trattamento",
+                    "compromissione sistemi sicurezza",
+                    "furto di dispositivi",
+                    "intrusione fisica nel datacenter"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T19:57:20.425Z",
+            "id": 135
         },
-        "created_at": "2024-06-26T19:54:14.684Z",
-        "id": 65,
-        "updated_at": "2024-06-26T19:57:20.425Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 323,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "Vulnerabilità software, hardware, sistemi operativi, software e applicazioni",
-            "servizi esposti a internet",
-            "errori umani",
-            "controlli di accesso",
-            "negligenza degli operatori",
-            "cambiamenti normativi",
-            "sicurezza dei dispositivi con accesso autorizzato",
-            "account takeover"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 323,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "Vulnerabilità software, hardware, sistemi operativi, software e applicazioni",
+                    "servizi esposti a internet",
+                    "errori umani",
+                    "controlli di accesso",
+                    "negligenza degli operatori",
+                    "cambiamenti normativi",
+                    "sicurezza dei dispositivi con accesso autorizzato",
+                    "account takeover"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T20:06:39.203Z",
+            "id": 136
         },
-        "created_at": "2024-06-26T20:00:24.456Z",
-        "id": 66,
-        "updated_at": "2024-06-26T20:06:39.203Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 324,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "Anonimizzazione",
-            "Controllo degli accessi logici",
-            "Gestione postazioni",
-            "Politica di tutela della privacy",
-            "Backup",
-            "Crittografia",
-            "Archiviazione"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 324,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "Anonimizzazione",
+                    "Controllo degli accessi logici",
+                    "Gestione postazioni",
+                    "Politica di tutela della privacy",
+                    "Backup",
+                    "Crittografia",
+                    "Archiviazione"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T20:08:29.361Z",
+            "id": 137
         },
-        "created_at": "2024-06-26T20:07:00.597Z",
-        "id": 67,
-        "updated_at": "2024-06-26T20:08:29.361Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 326,
-        "data": {
-          "text": "Le misure tecnico-organizzative implementate e la formazione e professionalit&agrave; dei titolari del trattamento permettono di mitigare fortemente i rischi.",
-          "gauge": 2,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 326,
+            "data": {
+                "text": "Le misure tecnico-organizzative implementate e la formazione e professionalit&agrave; dei titolari del trattamento permettono di mitigare fortemente i rischi.",
+                "gauge": 2,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T20:26:57.462Z",
+            "id": 138
         },
-        "created_at": "2024-06-26T20:10:48.618Z",
-        "id": 68,
-        "updated_at": "2024-06-26T20:26:57.462Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 331,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "discriminazione",
-            "violazione della privacy"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 331,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "discriminazione",
+                    "violazione della privacy"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-06T15:18:15.655Z",
+            "id": 139
         },
-        "created_at": "2024-06-26T20:27:44.968Z",
-        "id": 69,
-        "updated_at": "2024-07-06T15:18:15.655Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 332,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "accesso non autorizzato ai sistemi",
-            "compromissione dei servizi della piattaforma dati",
-            "compromissione sistemi sicurezza",
-            "furto di dispositivi"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 332,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "accesso non autorizzato ai sistemi",
+                    "compromissione dei servizi della piattaforma dati",
+                    "compromissione sistemi sicurezza",
+                    "furto di dispositivi"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T20:29:14.004Z",
+            "id": 140
         },
-        "created_at": "2024-06-26T20:27:55.611Z",
-        "id": 70,
-        "updated_at": "2024-06-26T20:29:14.004Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 333,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "account takeover",
-            "Vulnerabilità software, hardware, sistemi operativi, software e applicazioni",
-            "negligenza degli operatori",
-            "servizi esposti a internet",
-            "sicurezza dei dispositivi con accesso autorizzato"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 333,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "account takeover",
+                    "Vulnerabilità software, hardware, sistemi operativi, software e applicazioni",
+                    "negligenza degli operatori",
+                    "servizi esposti a internet",
+                    "sicurezza dei dispositivi con accesso autorizzato"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T20:29:40.849Z",
+            "id": 141
         },
-        "created_at": "2024-06-26T20:29:23.383Z",
-        "id": 71,
-        "updated_at": "2024-06-26T20:29:40.849Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 334,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "Controllo degli accessi logici",
-            "Gestione postazioni",
-            "Backup",
-            "Crittografia",
-            "Archiviazione"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 334,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "Controllo degli accessi logici",
+                    "Gestione postazioni",
+                    "Backup",
+                    "Crittografia",
+                    "Archiviazione"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-06-26T20:30:25.544Z",
+            "id": 142
         },
-        "created_at": "2024-06-26T20:30:08.327Z",
-        "id": 72,
-        "updated_at": "2024-06-26T20:30:25.544Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 335,
-        "data": {
-          "text": "abbiamo identificato la gravit&agrave; del rischio come un elemento critico per due ragioni principali:&nbsp;<br /><strong>1. Impatto sulla Discriminazione e Privacy degli Interessati:</strong> La correttezza e la protezione dei dati raccolti sono di massima importanza, non solo per conformit&agrave; normativa ma anche per garantire la dignit&agrave; e la privacy dei partecipanti. Qualsiasi modifica non autorizzata o inappropriata dei dati potrebbe esporre i soggetti a rischi di discriminazione e violazioni della privacy. Ad esempio, se le informazioni sensibili relative alle condizioni di salute dei pazienti venissero divulgate o utilizzate in modo improprio, potrebbe verificarsi una stigmatizzazione sociale o una discriminazione, influenzando negativamente la loro qualit&agrave; della vita e quella delle loro famiglie. La gestione sicura di questi dati &egrave; quindi essenziale per prevenire qualsiasi abuso che possa compromettere la privacy degli interessati.<br /><strong>2. Rischi Associati alla Validit&agrave; della Ricerca:</strong> La fedelt&agrave; e l'integrit&agrave; dei dati sono altrettanto cruciali per l'accuratezza dei risultati della ricerca. Modifiche indesiderate o errori nei dati possono portare a conclusioni errate, compromettendo l'efficacia del progetto di ricerca. Nel contesto del nostro studio, che utilizza giochi interattivi come strumenti terapeutici per pazienti con sindrome di Rett, dati errati o mal gestiti potrebbero portare a interpretazioni sbagliate dell'efficacia di tali interventi. Di conseguenza, ci&ograve; potrebbe non solo ritardare il progresso nella ricerca ma anche impedire lo sviluppo di terapie efficaci che potrebbero migliorare significativamente la gestione della sindrome da parte dei pazienti.",
-          "gauge": 3,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 335,
+            "data": {
+                "text": "abbiamo identificato la gravit&agrave; del rischio come un elemento critico per due ragioni principali:&nbsp;<br /><strong>1. Impatto sulla Discriminazione e Privacy degli Interessati:</strong> La correttezza e la protezione dei dati raccolti sono di massima importanza, non solo per conformit&agrave; normativa ma anche per garantire la dignit&agrave; e la privacy dei partecipanti. Qualsiasi modifica non autorizzata o inappropriata dei dati potrebbe esporre i soggetti a rischi di discriminazione e violazioni della privacy. Ad esempio, se le informazioni sensibili relative alle condizioni di salute dei pazienti venissero divulgate o utilizzate in modo improprio, potrebbe verificarsi una stigmatizzazione sociale o una discriminazione, influenzando negativamente la loro qualit&agrave; della vita e quella delle loro famiglie. La gestione sicura di questi dati &egrave; quindi essenziale per prevenire qualsiasi abuso che possa compromettere la privacy degli interessati.<br /><strong>2. Rischi Associati alla Validit&agrave; della Ricerca:</strong> La fedelt&agrave; e l'integrit&agrave; dei dati sono altrettanto cruciali per l'accuratezza dei risultati della ricerca. Modifiche indesiderate o errori nei dati possono portare a conclusioni errate, compromettendo l'efficacia del progetto di ricerca. Nel contesto del nostro studio, che utilizza giochi interattivi come strumenti terapeutici per pazienti con sindrome di Rett, dati errati o mal gestiti potrebbero portare a interpretazioni sbagliate dell'efficacia di tali interventi. Di conseguenza, ci&ograve; potrebbe non solo ritardare il progresso nella ricerca ma anche impedire lo sviluppo di terapie efficaci che potrebbero migliorare significativamente la gestione della sindrome da parte dei pazienti.",
+                "gauge": 3,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-06T15:26:15.721Z",
+            "id": 143
         },
-        "created_at": "2024-06-26T20:30:38.409Z",
-        "id": 73,
-        "updated_at": "2024-07-06T15:26:15.721Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 336,
-        "data": {
-          "text": "<strong>1. Implementazione di Rigorose Misure di Sicurezza:</strong> Il progetto ha adottato un insieme di misure di sicurezza tecnologiche e organizzative di alto livello. Queste includono l'uso di sistemi di cifratura avanzati, protocolli di autenticazione sicuri e accessi controllati, che riducono notevolmente la possibilit&agrave; di accessi non autorizzati o di manipolazione dei dati. La presenza di tali misure diminuisce significativamente la probabilit&agrave; di incidenti di sicurezza.<br /><br /><strong>2. Formazione e Consapevolezza del Personale:</strong> Tutti i membri del team coinvolti nella ricerca hanno ricevuto formazione specifica sulla gestione dei dati personali e sulla sicurezza. Questo aumenta la consapevolezza riguardo le potenziali minacce e riduce la probabilit&agrave; di errori umani che potrebbero portare a violazioni dei dati.<br /><br /><strong>3. Limitazione dell'Accesso ai Dati:</strong> L'accesso ai dati &egrave; strettamente limitato al personale necessario, e ogni accesso &egrave; registrato e monitorato. L'implementazione di principi di minima necessit&agrave; e di accesso basato sui ruoli riduce ulteriormente le possibilit&agrave; di esposizione accidentale o malintenzionata dei dati.",
-          "gauge": 2,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 336,
+            "data": {
+                "text": "<strong>1. Implementazione di Rigorose Misure di Sicurezza:</strong> Il progetto ha adottato un insieme di misure di sicurezza tecnologiche e organizzative di alto livello. Queste includono l'uso di sistemi di cifratura avanzati, protocolli di autenticazione sicuri e accessi controllati, che riducono notevolmente la possibilit&agrave; di accessi non autorizzati o di manipolazione dei dati. La presenza di tali misure diminuisce significativamente la probabilit&agrave; di incidenti di sicurezza.<br /><br /><strong>2. Formazione e Consapevolezza del Personale:</strong> Tutti i membri del team coinvolti nella ricerca hanno ricevuto formazione specifica sulla gestione dei dati personali e sulla sicurezza. Questo aumenta la consapevolezza riguardo le potenziali minacce e riduce la probabilit&agrave; di errori umani che potrebbero portare a violazioni dei dati.<br /><br /><strong>3. Limitazione dell'Accesso ai Dati:</strong> L'accesso ai dati &egrave; strettamente limitato al personale necessario, e ogni accesso &egrave; registrato e monitorato. L'implementazione di principi di minima necessit&agrave; e di accesso basato sui ruoli riduce ulteriormente le possibilit&agrave; di esposizione accidentale o malintenzionata dei dati.",
+                "gauge": 2,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-06T15:29:53.414Z",
+            "id": 144
         },
-        "created_at": "2024-06-26T20:31:05.063Z",
-        "id": 74,
-        "updated_at": "2024-07-06T15:29:53.414Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 341,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "discriminazione",
-            "danni alla reputazione",
-            "violazione della privacy"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 341,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "discriminazione",
+                    "danni alla reputazione",
+                    "violazione della privacy"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.152Z",
+            "updated_at": "2024-07-06T15:15:20.687Z",
+            "id": 145
         },
-        "created_at": "2024-07-06T15:15:15.946Z",
-        "id": 105,
-        "updated_at": "2024-07-06T15:15:20.687Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 342,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "accesso non autorizzato ai sistemi",
-            "compromissione dei servizi della piattaforma dati",
-            "compromissione sistemi sicurezza",
-            "furto di dispositivi",
-            "intrusione fisica nel datacenter",
-            "invio dati a personale non autorizzato al trattamento",
-            "malware",
-            "ransomware"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 342,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "accesso non autorizzato ai sistemi",
+                    "compromissione dei servizi della piattaforma dati",
+                    "compromissione sistemi sicurezza",
+                    "furto di dispositivi",
+                    "intrusione fisica nel datacenter",
+                    "invio dati a personale non autorizzato al trattamento",
+                    "malware",
+                    "ransomware"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.153Z",
+            "updated_at": "2024-07-06T15:15:48.109Z",
+            "id": 146
         },
-        "created_at": "2024-07-06T15:15:29.032Z",
-        "id": 106,
-        "updated_at": "2024-07-06T15:15:48.109Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 343,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "Vulnerabilità software, hardware, sistemi operativi, software e applicazioni",
-            "account takeover",
-            "errori umani",
-            "controlli di accesso",
-            "servizi esposti a internet",
-            "sicurezza dei dispositivi con accesso autorizzato",
-            "negligenza degli operatori"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 343,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "Vulnerabilità software, hardware, sistemi operativi, software e applicazioni",
+                    "account takeover",
+                    "errori umani",
+                    "controlli di accesso",
+                    "servizi esposti a internet",
+                    "sicurezza dei dispositivi con accesso autorizzato",
+                    "negligenza degli operatori"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.153Z",
+            "updated_at": "2024-07-06T15:16:27.234Z",
+            "id": 147
         },
-        "created_at": "2024-07-06T15:16:04.286Z",
-        "id": 107,
-        "updated_at": "2024-07-06T15:16:27.234Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 344,
-        "data": {
-          "text": null,
-          "gauge": null,
-          "list": [
-            "Archiviazione",
-            "Gestione postazioni",
-            "Backup"
-          ]
+        {
+            "pia_id": 5,
+            "reference_to": 344,
+            "data": {
+                "text": null,
+                "gauge": null,
+                "list": [
+                    "Archiviazione",
+                    "Gestione postazioni",
+                    "Backup"
+                ]
+            },
+            "created_at": "2024-07-19T12:37:20.153Z",
+            "updated_at": "2024-07-06T15:16:44.746Z",
+            "id": 148
         },
-        "created_at": "2024-07-06T15:16:41.511Z",
-        "id": 108,
-        "updated_at": "2024-07-06T15:16:44.746Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 345,
-        "data": {
-          "text": "La gravit&agrave; del rischio associato alla perdita dei dati in questo progetto di ricerca &egrave; considerata importante per diverse ragioni cruciali:<br /><br />\n<ol>\n<li><strong>Impatto sulla Ricerca:</strong> La perdita di dati pu&ograve; compromettere significativamente la validit&agrave; e l'affidabilit&agrave; dei risultati della ricerca. Senza un dataset completo, l'analisi potrebbe portare a conclusioni errate che potrebbero non solo minare il progresso scientifico ma anche influenzare negativamente le decisioni cliniche basate su tali risultati.</li>\n<li><strong>Ripercussioni sui Partecipanti:</strong> I dati raccolti nei nostri studi sono estremamente sensibili e spesso irrecuperabili. La perdita di tali informazioni pu&ograve; precludere la possibilit&agrave; di offrire interventi personalizzati ai partecipanti, potenzialmente negando loro benefici terapeutici cruciali derivanti dalla partecipazione alla ricerca.</li>\n<li><strong>Danno alla Reputazione:</strong> La perdita di dati pu&ograve; anche portare a danni reputazionali significativi per l'ente di ricerca, con conseguente perdita di fiducia da parte dei partecipanti, dei finanziatori e della comunit&agrave; scientifica. Questo pu&ograve; avere un impatto duraturo sulla capacit&agrave; di condurre future ricerche.</li>\n</ol>",
-          "gauge": 3,
-          "list": []
+        {
+            "pia_id": 5,
+            "reference_to": 345,
+            "data": {
+                "text": "La gravit&agrave; del rischio associato alla perdita dei dati in questo progetto di ricerca &egrave; considerata importante per diverse ragioni cruciali:<br /><br />\n<ol>\n<li><strong>Impatto sulla Ricerca:</strong> La perdita di dati pu&ograve; compromettere significativamente la validit&agrave; e l'affidabilit&agrave; dei risultati della ricerca. Senza un dataset completo, l'analisi potrebbe portare a conclusioni errate che potrebbero non solo minare il progresso scientifico ma anche influenzare negativamente le decisioni cliniche basate su tali risultati.</li>\n<li><strong>Ripercussioni sui Partecipanti:</strong> I dati raccolti nei nostri studi sono estremamente sensibili e spesso irrecuperabili. La perdita di tali informazioni pu&ograve; precludere la possibilit&agrave; di offrire interventi personalizzati ai partecipanti, potenzialmente negando loro benefici terapeutici cruciali derivanti dalla partecipazione alla ricerca.</li>\n<li><strong>Danno alla Reputazione:</strong> La perdita di dati pu&ograve; anche portare a danni reputazionali significativi per l'ente di ricerca, con conseguente perdita di fiducia da parte dei partecipanti, dei finanziatori e della comunit&agrave; scientifica. Questo pu&ograve; avere un impatto duraturo sulla capacit&agrave; di condurre future ricerche.</li>\n</ol>",
+                "gauge": 3,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.153Z",
+            "updated_at": "2024-07-06T16:00:34.076Z",
+            "id": 149
         },
-        "created_at": "2024-07-06T15:16:52.406Z",
-        "id": 109,
-        "updated_at": "2024-07-06T16:00:34.076Z"
-      },
-      {
-        "pia_id": 2,
-        "reference_to": 346,
-        "data": {
-          "text": "Nonostante la gravit&agrave; del rischio di perdita dei dati sia elevata, la probabilit&agrave; che ci&ograve; avvenga &egrave; stimata come limitata, grazie a misure proattive e sistemi di sicurezza che includono:<br />\n<ol>\n<li><strong>Backup Regolari e Redundancy:</strong> Implementiamo procedure di backup regolari, con la duplicazione dei dati in pi&ugrave; ubicazioni geografiche sicure. Questo assicura che, in caso di guasto di un sistema, i dati possano essere rapidamente recuperati senza perdite.</li>\n<li><strong>Infrastrutture di Storage Affidabili:</strong> Utilizziamo soluzioni di storage affidabili e sicure, gestite da fornitori di servizi rispettabili che garantiscono elevati standard di sicurezza fisica e informatica.</li>\n<li><strong>Test di Recupero dei Dati:</strong> Conduciamo regolarmente test di recupero dei dati per verificare l'efficacia delle nostre strategie di backup e la nostra capacit&agrave; di ripristinare rapidamente i dati dopo un'eventuale perdita.</li>\n<li><strong>Controllo di Accesso e Monitoraggio:</strong> L'accesso ai dati &egrave; severamente controllato e monitorato, con misure che limitano l'accesso ai soli individui autorizzati, riducendo cos&igrave; il rischio di cancellazioni accidentali o malintenzionate.</li>\n<li><strong>Formazione Continua del Personale:</strong> Tutti i membri del team sono regolarmente formati riguardo le migliori pratiche per la gestione dei dati, incluse le procedure per evitare la perdita di dati e per rispondere a eventuali incidenti di sicurezza.</li>\n</ol>",
-          "gauge": 2,
-          "list": []
-        },
-        "created_at": "2024-07-06T15:16:55.830Z",
-        "id": 110,
-        "updated_at": "2024-07-06T16:02:15.306Z"
-      }
+        {
+            "pia_id": 5,
+            "reference_to": 346,
+            "data": {
+                "text": "Nonostante la gravit&agrave; del rischio di perdita dei dati sia elevata, la probabilit&agrave; che ci&ograve; avvenga &egrave; stimata come limitata, grazie a misure proattive e sistemi di sicurezza che includono:<br />\n<ol>\n<li><strong>Backup Regolari e Redundancy:</strong> Implementiamo procedure di backup regolari, con la duplicazione dei dati in pi&ugrave; ubicazioni geografiche sicure. Questo assicura che, in caso di guasto di un sistema, i dati possano essere rapidamente recuperati senza perdite.</li>\n<li><strong>Infrastrutture di Storage Affidabili:</strong> Utilizziamo soluzioni di storage affidabili e sicure, gestite da fornitori di servizi rispettabili che garantiscono elevati standard di sicurezza fisica e informatica.</li>\n<li><strong>Test di Recupero dei Dati:</strong> Conduciamo regolarmente test di recupero dei dati per verificare l'efficacia delle nostre strategie di backup e la nostra capacit&agrave; di ripristinare rapidamente i dati dopo un'eventuale perdita.</li>\n<li><strong>Controllo di Accesso e Monitoraggio:</strong> L'accesso ai dati &egrave; severamente controllato e monitorato, con misure che limitano l'accesso ai soli individui autorizzati, riducendo cos&igrave; il rischio di cancellazioni accidentali o malintenzionate.</li>\n<li><strong>Formazione Continua del Personale:</strong> Tutti i membri del team sono regolarmente formati riguardo le migliori pratiche per la gestione dei dati, incluse le procedure per evitare la perdita di dati e per rispondere a eventuali incidenti di sicurezza.</li>\n</ol>",
+                "gauge": 2,
+                "list": []
+            },
+            "created_at": "2024-07-19T12:37:20.153Z",
+            "updated_at": "2024-07-06T16:02:15.306Z",
+            "id": 150
+        }
     ],
     "measures": [
-      {
-        "title": "Anonimizzazione",
-        "pia_id": 2,
-        "content": "Pseudonimizzazione, ID numerici o token riferiti ad un soggetto partecipante",
-        "placeholder": "knowledge_base.slugs.PIA_TEC_ANO.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:48:42.343Z",
-        "id": 33
-      },
-      {
-        "title": "Crittografia",
-        "pia_id": 2,
-        "content": "Chiavi pubbliche e private",
-        "placeholder": "knowledge_base.slugs.PIA_TEC_CHIF.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:49:33.482Z",
-        "id": 34
-      },
-      {
-        "title": "Controllo degli accessi logici",
-        "pia_id": 2,
-        "content": "Profili privati per l'accesso al Data Lake, credenziali associate solo ai profili ricercatori/associazione",
-        "placeholder": "knowledge_base.slugs.PIA_TEC_CTLA.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:50:23.411Z",
-        "id": 35
-      },
-      {
-        "title": "Archiviazione",
-        "pia_id": 2,
-        "content": "Data Lake on premise",
-        "placeholder": "knowledge_base.slugs.PIA_TEC_ARCH.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:50:55.444Z",
-        "id": 36
-      },
-      {
-        "title": "Gestione postazioni",
-        "pia_id": 2,
-        "content": "VPN su macchine isolate per collegarsi ai server del Data Lake: permessi solo protocolli sicuri (ssh, RDP, SQL con certificati digitali)",
-        "placeholder": "knowledge_base.slugs.PIA_SEC_COMP.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:55:13.449Z",
-        "id": 37
-      },
-      {
-        "title": "Backup",
-        "pia_id": 2,
-        "content": "Backup on-site",
-        "placeholder": "knowledge_base.slugs.PIA_SEC_BKP.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:53:12.363Z",
-        "id": 38
-      },
-      {
-        "title": "Politica di tutela della privacy",
-        "pia_id": 2,
-        "content": "Pseudonimizzazione, Role Based Access Control",
-        "placeholder": "knowledge_base.slugs.PIA_ORG_ORG.placeholder",
-        "created_at": null,
-        "updated_at": "2024-06-05T16:54:18.328Z",
-        "id": 39
-      }
+        {
+            "title": "Anonimizzazione",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Pseudonimizzazione, ID numerici o token riferiti ad un soggetto partecipante</p>",
+            "placeholder": "knowledge_base.slugs.PIA_TEC_ANO.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:54:12.240Z",
+            "id": 38
+        },
+        {
+            "title": "Crittografia",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Chiavi pubbliche e private</p>",
+            "placeholder": "knowledge_base.slugs.PIA_TEC_CHIF.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:54:29.331Z",
+            "id": 39
+        },
+        {
+            "title": "Controllo degli accessi logici",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Profili privati per l'accesso al Data Lake, credenziali associate solo ai profili ricercatori/associazione</p>",
+            "placeholder": "knowledge_base.slugs.PIA_TEC_CTLA.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:54:45.285Z",
+            "id": 40
+        },
+        {
+            "title": "Archiviazione",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Data Lake on premise - La piattaforma cloud utilizzata sar&agrave; la piattaforma ECS PA (ID ACN: SA-3142), qualificata come QC1 dall&rsquo;Agenzia per la Cybersicurezza Nazionale</p>",
+            "placeholder": "knowledge_base.slugs.PIA_TEC_ARCH.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:55:47.764Z",
+            "id": 41
+        },
+        {
+            "title": "Gestione postazioni",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">VPN su macchine isolate per collegarsi ai server del Data Lake: permessi solo protocolli sicuri (ssh, RDP, SQL con certificati digitali)</p>",
+            "placeholder": "knowledge_base.slugs.PIA_SEC_COMP.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:56:08.711Z",
+            "id": 42
+        },
+        {
+            "title": "Backup",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Backup on-site</p>",
+            "placeholder": "knowledge_base.slugs.PIA_SEC_BKP.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:56:28.208Z",
+            "id": 43
+        },
+        {
+            "title": "Politica di tutela della privacy",
+            "pia_id": 5,
+            "content": "<p class=\"MsoNormal\" style=\"margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif; text-align: justify;\">Pseudonimizzazione, Role Based Access Control</p>",
+            "placeholder": "knowledge_base.slugs.PIA_ORG_ORG.placeholder",
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "2024-07-19T12:56:46.261Z",
+            "id": 44
+        }
     ],
     "evaluations": [
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "1.2",
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "1.1",
+            "created_at": "2024-07-19T12:43:51.384Z",
+            "id": 91,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:15.901Z"
         },
-        "created_at": "2024-06-21T15:01:34.637Z",
-        "updated_at": "2024-06-21T14:32:26.340Z",
-        "id": 44
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "1.1",
-        "evaluation_comment": "",
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "1.2",
+            "created_at": "2024-07-19T12:46:03.759Z",
+            "id": 92,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:25.217Z"
         },
-        "created_at": "2024-06-21T15:01:34.640Z",
-        "updated_at": "2024-06-21T14:59:43.725Z",
-        "id": 45
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.1.211",
-        "created_at": "2024-06-26T19:19:46.654Z",
-        "id": 46,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.1.211",
+            "created_at": "2024-07-19T12:49:01.129Z",
+            "id": 93,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:44.496Z"
         },
-        "updated_at": "2024-06-26T19:40:13.960Z",
-        "evaluation_comment": ""
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.1.212",
-        "created_at": "2024-06-26T19:19:46.655Z",
-        "id": 47,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.1.212",
+            "created_at": "2024-07-19T12:49:01.130Z",
+            "id": 94,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:44.497Z"
         },
-        "updated_at": "2024-06-26T19:40:13.961Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.1.213",
-        "created_at": "2024-06-26T19:19:46.656Z",
-        "id": 48,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.1.213",
+            "created_at": "2024-07-19T12:49:01.132Z",
+            "id": 95,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:44.498Z"
         },
-        "updated_at": "2024-06-26T19:40:13.964Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.1.214",
-        "created_at": "2024-06-26T19:19:46.658Z",
-        "id": 49,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.1.214",
+            "created_at": "2024-07-19T12:49:01.133Z",
+            "id": 96,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:44.500Z"
         },
-        "updated_at": "2024-06-26T19:40:13.965Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.1.215",
-        "created_at": "2024-06-26T19:19:46.659Z",
-        "id": 50,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.1.215",
+            "created_at": "2024-07-19T12:49:01.134Z",
+            "id": 97,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:44.501Z"
         },
-        "updated_at": "2024-06-26T19:40:13.966Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.221",
-        "created_at": "2024-06-26T19:39:04.891Z",
-        "id": 51,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.221",
+            "created_at": "2024-07-19T12:53:51.291Z",
+            "id": 98,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.187Z"
         },
-        "updated_at": "2024-06-26T19:40:57.381Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.222",
-        "created_at": "2024-06-26T19:39:04.893Z",
-        "id": 52,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.222",
+            "created_at": "2024-07-19T12:53:51.292Z",
+            "id": 99,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.188Z"
         },
-        "updated_at": "2024-06-26T19:40:57.382Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.223",
-        "created_at": "2024-06-26T19:39:04.894Z",
-        "id": 53,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.223",
+            "created_at": "2024-07-19T12:53:51.294Z",
+            "id": 100,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.190Z"
         },
-        "updated_at": "2024-06-26T19:40:57.383Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.224",
-        "created_at": "2024-06-26T19:39:04.895Z",
-        "id": 54,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.224",
+            "created_at": "2024-07-19T12:53:51.295Z",
+            "id": 101,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.191Z"
         },
-        "updated_at": "2024-06-26T19:40:57.385Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.225",
-        "created_at": "2024-06-26T19:39:04.896Z",
-        "id": 55,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.225",
+            "created_at": "2024-07-19T12:53:51.296Z",
+            "id": 102,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.192Z"
         },
-        "updated_at": "2024-06-26T19:40:57.386Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.226",
-        "created_at": "2024-06-26T19:39:04.897Z",
-        "id": 56,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.226",
+            "created_at": "2024-07-19T12:53:51.297Z",
+            "id": 103,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.193Z"
         },
-        "updated_at": "2024-06-26T19:40:57.387Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "2.2.227",
-        "created_at": "2024-06-26T19:39:04.898Z",
-        "id": 57,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "2.2.227",
+            "created_at": "2024-07-19T12:53:51.298Z",
+            "id": 104,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:57:58.194Z"
         },
-        "updated_at": "2024-06-26T19:40:57.389Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.33",
-        "created_at": "2024-06-26T19:39:09.642Z",
-        "id": 58,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.38",
+            "created_at": "2024-07-19T12:56:47.260Z",
+            "id": 105,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.705Z"
         },
-        "updated_at": "2024-06-26T20:09:27.586Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.34",
-        "created_at": "2024-06-26T19:39:09.643Z",
-        "id": 59,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.39",
+            "created_at": "2024-07-19T12:56:47.262Z",
+            "id": 106,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.707Z"
         },
-        "updated_at": "2024-06-26T20:09:27.587Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.35",
-        "created_at": "2024-06-26T19:39:09.645Z",
-        "id": 60,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.40",
+            "created_at": "2024-07-19T12:56:47.263Z",
+            "id": 107,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.708Z"
         },
-        "updated_at": "2024-06-26T20:09:27.588Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.36",
-        "created_at": "2024-06-26T19:39:09.646Z",
-        "id": 61,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.41",
+            "created_at": "2024-07-19T12:56:47.265Z",
+            "id": 108,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.710Z"
         },
-        "updated_at": "2024-06-26T20:09:27.590Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.37",
-        "created_at": "2024-06-26T19:39:09.648Z",
-        "id": 62,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.42",
+            "created_at": "2024-07-19T12:56:47.268Z",
+            "id": 109,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.712Z"
         },
-        "updated_at": "2024-06-26T20:09:27.591Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.38",
-        "created_at": "2024-06-26T19:39:09.650Z",
-        "id": 63,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.43",
+            "created_at": "2024-07-19T12:56:47.269Z",
+            "id": 110,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.713Z"
         },
-        "updated_at": "2024-06-26T20:09:27.592Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.1.39",
-        "created_at": "2024-06-26T19:39:09.651Z",
-        "id": 64,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.1.44",
+            "created_at": "2024-07-19T12:56:47.271Z",
+            "id": 111,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:12.715Z"
         },
-        "updated_at": "2024-06-26T20:09:27.594Z"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.2",
-        "created_at": "2024-06-26T20:27:14.662Z",
-        "id": 65,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.2",
+            "created_at": "2024-07-19T12:56:53.800Z",
+            "id": 112,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:18.228Z"
         },
-        "updated_at": "2024-07-06T15:34:29.314Z",
-        "evaluation_comment": "<strong>1. Protocolli di Autenticazione Robusti:</strong> Il progetto utilizza sistemi di autenticazione multi-fattore (MFA) per tutti gli accessi ai dati. Questo metodo richiede pi&ugrave; forme di verifica prima che l'accesso sia concesso, riducendo significativamente il rischio di accessi non autorizzati attraverso il furto di credenziali.<br /><br /><strong>2. Controllo e Monitoraggio degli Accessi:</strong> Tutti gli accessi ai sistemi di dati sono rigorosamente monitorati e registrati. Implementiamo sistemi di rilevamento delle intrusioni (IDS) che allertano i nostri amministratori di sistema in caso di comportamenti sospetti o tentativi di accesso non autorizzati. Questo monitoraggio continuo permette di intercettare e mitigare rapidamente eventuali tentativi di accesso illegittimo.<br /><br /><strong>3. Formazione Regolare del Personale:</strong> Conduceamo sessioni regolari di formazione sulla sicurezza per il nostro personale, enfatizzando l'importanza della protezione dei dati e insegnando pratiche sicure per la gestione delle informazioni. Questo riduce la probabilit&agrave; di errori umani che potrebbero portare a breccie di sicurezza.<br /><br /><strong>4. Tecnologie di Cifratura All'avanguardia:</strong> I dati sensibili sono protetti tramite cifratura sia durante il trasferimento che quando sono memorizzati. Utilizziamo algoritmi di cifratura forti raccomandati da autorit&agrave; di sicurezza globale, assicurando che i dati siano illeggibili senza le chiavi di decifrazione appropriate.<br /><br /><strong>5. Politiche di Sicurezza Stringenti e Aggiornate:</strong> Adottiamo politiche di sicurezza che sono regolarmente riviste e aggiornate per rispondere all'evoluzione delle minacce informatiche. Queste politiche coprono l'accesso ai dati, la gestione delle chiavi di cifratura, e la risposta agli incidenti, fornendo un framework chiaro per la protezione dei dati.<br /><br /><strong>6. Isolamento dei Dati Sensibili:</strong> I dati pi&ugrave; sensibili sono isolati in sistemi protetti con ulteriori livelli di sicurezza. L'accesso a questi dati &egrave; limitato solo a personale specificamente autorizzato, che ha necessit&agrave; di conoscere queste informazioni per scopi di ricerca legittimi.\n<br>Dettagliare la stima della probabilit&agrave; del rischio"
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.3",
-        "created_at": "2024-07-06T15:57:48.329Z",
-        "id": 66,
-        "gauges": {
-          "x": 0,
-          "y": 0
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.3",
+            "created_at": "2024-07-19T12:56:58.049Z",
+            "id": 113,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:23.890Z"
         },
-        "updated_at": "2024-07-06T16:17:03.863Z",
-        "evaluation_comment": ""
-      },
-      {
-        "status": 3,
-        "global_status": 2,
-        "pia_id": 2,
-        "reference_to": "3.4",
-        "created_at": "2024-07-06T16:02:15.376Z",
-        "id": 67,
-        "gauges": {
-          "x": 0,
-          "y": 0
-        },
-        "updated_at": "2024-07-06T16:03:20.380Z"
-      }
+        {
+            "status": 3,
+            "global_status": 2,
+            "pia_id": 5,
+            "reference_to": "3.4",
+            "created_at": "2024-07-19T12:57:02.801Z",
+            "id": 114,
+            "gauges": {
+                "x": 0,
+                "y": 0
+            },
+            "updated_at": "2024-07-19T12:58:29.473Z"
+        }
     ],
     "comments": []
-  }
+}
